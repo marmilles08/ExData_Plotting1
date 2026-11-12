@@ -1,3 +1,11 @@
+## Notes on this fork
+
+This repository is a fork created for the Exploratory Data Analysis course. It contains four R scripts (`plot1.R` to `plot4.R`), each one generating a 480x480 PNG file with the same name (`plot1.png` to `plot4.png`).
+
+The data comes from the UCI household power consumption dataset, using the download link in the "Loading the data" section above. The data file is not included in this repository because of its size.
+
+To run the scripts, save the data file as `household_power_consumption.txt` in the same folder as the scripts and set that folder as your working directory.
+
 ## Introduction
 
 This assignment uses data from
