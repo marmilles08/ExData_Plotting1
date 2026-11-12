@@ -6,7 +6,7 @@ The data comes from the UCI household power consumption dataset, using the downl
 
 To run the scripts, save the data file as `household_power_consumption.txt` in the same folder as the scripts and set that folder as your working directory.
 
-Original README from the course:
+Original README from the course and rdpeng repository:
 
 ## Introduction
 
